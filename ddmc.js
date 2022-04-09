@@ -33,7 +33,7 @@ var data = {
             "default_select": false,
             "time": [
                 {
-                    "date_str": "今天(VERMAN)",
+                    "date_str": "今天(New)",
                     "date_str_timestamp": nowTime,
                     "day": "today",
                     "times": [
