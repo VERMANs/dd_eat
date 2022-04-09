@@ -33,7 +33,7 @@ var data = {
             "default_select": false,
             "time": [
                 {
-                    "date_str": "今天(来自Max破解)",
+                    "date_str": "今天(VERMAN)",
                     "date_str_timestamp": nowTime,
                     "day": "today",
                     "times": [
@@ -53,7 +53,7 @@ var data = {
                         },
                         {
                             "type": 4,
-                            "fullFlag": false,
+                            "fullFlag": true,
                             "disableType": 0,
                             "disableMsg": null,
                             "textMsg": "",
@@ -86,7 +86,7 @@ var data = {
                             "disableMsg": null,
                             "textMsg": "",
                             "start_time": "18:30",
-                            "end_time": "22:00",
+                            "end_time": "22:30",
                             "start_timestamp": strToTimestamp("18:30:00"),
                             "end_timestamp": strToTimestamp("22:30:00"),
                             "arrival_time_msg": "18:30-22:30",
